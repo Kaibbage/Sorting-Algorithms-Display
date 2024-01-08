@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1624065707 source:c:\users\kais9\onedrive\desktop\codeblocks projects\sortgraphical\main.cpp
+	<iostream>
+	<vector>
+	"sorters.h"
+
+1624062881 c:\users\kais9\onedrive\desktop\codeblocks projects\sortgraphical\sorters.h
+	<vector>
+	<iostream>
+
+1624069421 source:c:\users\kais9\onedrive\desktop\codeblocks projects\sortgraphical\sorters.cpp
+	"sorters.h"
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<time.h>
+
+1624070599 source:c:\users\kais9\onedrive\documents\github\graphicalsort-kai-sundararaj\main.cpp
+	<iostream>
+	<vector>
+	"sorters.h"
+
+1624070599 c:\users\kais9\onedrive\documents\github\graphicalsort-kai-sundararaj\sorters.h
+	<vector>
+	<iostream>
+
